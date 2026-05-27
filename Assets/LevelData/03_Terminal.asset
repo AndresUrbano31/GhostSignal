@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88b7138585a994783a063f1e90b3bd93, type: 3}
+  m_Name: 03_Terminal
+  m_EditorClassIdentifier: Assembly-CSharp::GhostSignal.UI.LevelData
+  id: 3
+  code: 03_TERMINAL
+  displayName: TERMINAL
+  description: "Subred industrial \xB7 se\xF1ales t\xE9rmicas"
+  accentColor: {r: 1, g: 0.18039216, b: 0.5764706, a: 1}
+  thumbnail: {fileID: 0}
+  sceneName: Level3_Terminal
+  fragmentsTotal: 6
